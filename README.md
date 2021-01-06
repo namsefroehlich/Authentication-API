@@ -19,15 +19,15 @@ Commands:
 Postman:
 
 - Register: http://localhost:3000/api/user/register
-- !raw Json Body Post req.
-- {
+!raw Json Body Post req.
+{
     "name": "adminadmin",
     "email": "admin@gmail.com",
     "password": "adminadmin"
 }
 
 
-Login: 
+- Login: 
 http://localhost:3000/api/user/login
 raw Json Body Post req.
 {
@@ -36,7 +36,7 @@ raw Json Body Post req.
 }
 
 
-Private Route Only Accesible with JWT Token:
+- Private Route Only Accesible with JWT Token:
 http://localhost:3000/api/private
 
 Headers:
