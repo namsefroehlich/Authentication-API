@@ -1,4 +1,4 @@
-# Authentication-JWT-Node.js
+# Authentication Node.js API
 
 Node.js api that handles Authentication.
 
