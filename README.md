@@ -39,5 +39,4 @@ raw Json Body Post req.
 - Private Route Only Accesible with JWT Token:
 http://localhost:3000/api/private
 
-Headers:
-auth-token = token(from login response)
+Headers: auth-token = token(from login response)
