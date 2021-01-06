@@ -9,14 +9,14 @@ Node.js api that handles Authentication.
 
 ======================================================================
 
---Commands:
--npm-install-all /for packages and dependecies.
--npm start / to start server.
--Mongo DB Cluster Is online 
+Commands:
+- npm-install-all /for packages and dependecies.
+- npm start / to start server.
+- Mongo DB Cluster Is online 
 
 ======================================================================
 
---Postman:
+Postman:
 
 Register:
 http://localhost:3000/api/user/register
