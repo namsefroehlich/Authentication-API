@@ -7,14 +7,10 @@ Node.js api that handles Authentication.
 - Express Server
 - bcryptjs to hash passwords
 
-======================================================================
-
 # Commands:
 - npm-install-all /for packages and dependecies.
 - npm start / to start server.
 - Mongo DB Cluster Is online 
-
-======================================================================
 
 # Postman:
 
