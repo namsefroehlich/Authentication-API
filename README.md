@@ -18,10 +18,9 @@ Commands:
 
 Postman:
 
-Register:
-http://localhost:3000/api/user/register
-!raw Json Body Post req.
-{
+- Register: http://localhost:3000/api/user/register
+- !raw Json Body Post req.
+- {
     "name": "adminadmin",
     "email": "admin@gmail.com",
     "password": "adminadmin"
